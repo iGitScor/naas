@@ -1,0 +1,8 @@
+dictdiffer
+flask
+Flask-PyMongo
+mysqlclient
+pymongo
+redis
+slackclient
+sqlalchemy
